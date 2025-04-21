@@ -1,4 +1,4 @@
-local module = {
+local Tabela = {
 	Races = {
 		["Anjo"] = {PlayersPermission = 
 			{
@@ -12,5 +12,7 @@ local module = {
 				1651965881;
 			}
 			,Icon = 81599403581004};
-	}
+	},
 }
+
+return Tabela
