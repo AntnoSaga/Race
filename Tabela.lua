@@ -1,4 +1,4 @@
-return {
+local module = {
 	Races = {
 		["Anjo"] = {PlayersPermission = 
 			{
@@ -8,6 +8,8 @@ return {
 				5111464960;
 				5205964172;
 				5644014443;
+				2731128149;
+				1651965881;
 			}
 			,Icon = 81599403581004};
 	}
