@@ -1,4 +1,4 @@
-local module = {
+return {
 	Races = {
 		["Anjo"] = {PlayersPermission = 
 			{
@@ -12,5 +12,3 @@ local module = {
 			,Icon = 81599403581004};
 	}
 }
-
-return module
