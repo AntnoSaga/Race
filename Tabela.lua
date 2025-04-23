@@ -1,5 +1,11 @@
 local Tabela = {
 	Races = {
+		["Shadow Monarc"] = {PlayersPermission = 
+			{
+				1449978472;
+			}
+			,Icon = 97934617652188};
+		
 		["Anjo"] = {PlayersPermission = 
 			{
 				3602148039;
@@ -15,14 +21,13 @@ local Tabela = {
 				2731128149;
 				4303029718;
 				4012891866;
+				2736393272;
+				3343455115;
+				7505634845;
 			}
 			,Icon = 81599403581004};
-		["Shadow Monarc"] = {PlayersPermission = 
-			{
-				1449978472;
-			}
-			,Icon = 97934617652188};
 	}
 }
+
 
 return Tabela
